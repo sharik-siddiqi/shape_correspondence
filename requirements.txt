@@ -1,0 +1,16 @@
+# Core dependencies
+tqdm==4.64.1          # Progress bar library
+numpy==1.23.5         # Numerical computations
+torch==1.13.1         # PyTorch for deep learning
+torchvision==0.14.1   # PyTorch vision utilities
+torchaudio==0.13.1    # PyTorch audio utilities
+scipy==1.9.3          # Scientific computing
+
+# File handling
+hdf5storage==0.1.18   # HDF5 file handling
+
+# Geometry processing
+igl==2.3.0            # Geometry processing library
+
+# Optional dependencies
+# cpython==3.10.0     # Python implementation (remove if unnecessary)
